@@ -38,7 +38,6 @@ This project uses SQL to analyze pizza sales data, focusing on revenue, popular 
 - The average number of pizzas ordered per day is 138.
 - The thai chicken pizza is the most profitable pizza.
 - Classic pizza has the highest contribution in total revenue.
--  
 
 
 
