@@ -1,6 +1,5 @@
 # Pizza-Sales-Analysis-SQL
-This project uses SQL to analyze pizza sales data, focusing on revenue, popular pizza types, and order trends, providing key insights for sales and inventory management.
-## Project Overview
+
 - The database contains comprehensive information about pizza orders, including details about orders, pizzas, pizza types, and their pricing. 
 - Using MySQL, I have written and executed queries to address various business-related questions, such as analyzing sales trends, identifying popular pizza types and sizes, and evaluating revenue contributions by category.
 - The project is divided into three levels of complexity:
